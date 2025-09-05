@@ -1,0 +1,35 @@
+﻿Unisha Daga  
+📧 unishadaga08@gmail.com  |  📱 6376991109  
+🔗 LinkedIn | LeetCode | Codeforces | GFG | HackerRank 
+EDUCATION
+
+• Government Engineering College, Ajmer  
+B.Tech in Computer Science (Cyber Security) | CGPA: 9.44 | 2022 - 2026
+
+• Maharaja Sumer Singh Public School, Kishangarh  
+  Class 12 - 93% (2021), Class 10 - 93.2% (2019)
+
+SKILLS
+ 
+• Programming: Python, JavaScript, HTML, CSS 
+• Tools & Platforms: Git, Operating Systems, Security Tools  
+• Domain Knowledge: Cyber security, Digital Forensics, Cryptography
+
+PROJECTS
+• Forensic Analysis of SMApps - Mobile forensics project for analyzing social media artifacts.  
+• Graph Plot - Visualized sales and price trends using JavaScript.  
+• Hotstar Clone - Built a static UI clone using HTML and CSS.  
+• Tic-Tac-Toe Game - Developed a basic game using JavaScript.  
+• Notes Website - Created a simple notes-sharing site with header section.
+
+TRAINING & INTERNSHIPS
+• Cyber security Analyst Virtual Experience - Tata (Forage), July 2025: Completed IAM strategy, custom        solutions & platform integration tasks.
+• Advanced Software Engineering Virtual Experience - Walmart Global Tech (Forage), June 2025: Covered modules in data structures, software architecture & data munging.
+• DevTown Training (2023): Python & AI (Google/Microsoft/AWS certified), React.JS, and Hotstar UI clone using HTML/CSS.
+• Cryptography Internship - Wontonee DigitalCraft LLP (Online, 45 days): Explored encryption, decryption & secure communication concepts.
+• Web Development Internship - Attah Info Media Pvt. Ltd. (Offline, 45 days): Built frontend modules using HTML, CSS, JavaScript.
+• iWE League Scholars Program - Goldman Sachs (2024): Recognized under GS Catalyst initiative for women empowerment and leadership.
+
+HOBBIES
+   
+Traveling and culture exploration   /  Creative writing and storytelling   /  Bird-watching

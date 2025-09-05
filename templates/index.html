@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>AI Resume Analyzer</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1>🚀 AI Resume Analyzer & Job Recommender</h1>
+      <form action="/" method="post" enctype="multipart/form-data">
+        <label for="resume">Upload Resume (txt, pdf, docx):</label>
+        <input type="file" name="resume" accept=".txt,.pdf,.docx" required />
+        <button type="submit">Analyze Resume</button>
+      </form>
+
+      {% if skills %}
+      <h2>✅ Extracted Skills</h2>
+      <p>{{ skills|join(', ') }}</p>
+      {% endif %}{% if jobs %}
+      <h2>💼 Recommended Jobs</h2>
+      <div class="job-list">
+        {% for job in jobs %}
+        <div class="job-card">
+          <h3>{{ job.title }}</h3>
+          <p><strong>Company:</strong> {{ job.company }}</p>
+          <p><strong>Location:</strong> {{ job.location }}</p>
+          <p>
+            <strong>Skills Matched:</strong> {{ job.skills_matched | join(", ")
+            }}
+          </p>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </body>
+</html>
